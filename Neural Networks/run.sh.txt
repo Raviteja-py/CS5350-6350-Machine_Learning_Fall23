@@ -1,0 +1,1 @@
+python3 Neural Networks/HW5_NN.py
